@@ -1,10 +1,6 @@
-# Super Forger
+# Extremely Forge Supporters
 
-Some super Forgers
-
-## What is this?
-
-This repo is a collection of some super Forgers who hates & detest Fabric/Quilt and loves Forge.
+This repo is a collection of some forge supporters who hates & detest Fabric/Quilt and loves Forge.
 
 ## Contributing
 
