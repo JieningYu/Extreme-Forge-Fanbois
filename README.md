@@ -1,6 +1,6 @@
-# Extremely Forge Supporters
+# Extreme Forge Fanbois
 
-This repo is a collection of some forge supporters who hates & detest Fabric/Quilt and loves Forge.
+This repo is a collection of some forge fanbois who hates & detest Fabric/Quilt and loves Forge.
 
 ## Contributing
 
